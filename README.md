@@ -1,6 +1,5 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>LAN - Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Project consists of two main parts. In part I,  you are required to diagram a network based on the organizational chart provided. The network diagram should include Servers for ADDS, DNS, DHCP , File and Print, and a Web Server. Additionally you also need to create an Active Directory Diagram Showing OU's, Users, and groups. In part II, You will build servers based on the diagrams created in part I.
@@ -36,20 +35,32 @@ Create an Active Directory Diagram: <br/>
 <img src="https://i.imgur.com/WjRXwnE.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dragon Inn Server Configurations and Roles:  <br/>
+<img src="https://i.imgur.com/0ZTxthe.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dragons Organizational Unit and Users:  <br/>
+<img src="https://i.imgur.com/gWxbIzj.png"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Characters Organizational Unit and Users:  <br/>
+<img src="https://i.imgur.com/WFPsjmA.png"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Overlords Organizational Unit and Users:  <br/>
+<img src="https://i.imgur.com/gUA5ipA.png"/>
+<br />
+<br />
+Staff Organizational Unit and Users:  <br/> 
+ <img src="https://i.imgur.com/85YIEHY.png"/>
+<br />
+<br />
+Human Tavern Server Configurations and Roles:  <br/>
+<img src="https://i.imgur.com/jQN5QHb.png"/>
+<br />
+<br />
+File Server Shared Files:  <br/>
+<img src="https://i.imgur.com/iQBZLmy.png"/>
 </p>
 
 <!--
