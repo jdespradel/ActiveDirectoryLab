@@ -11,7 +11,7 @@ Project consists of two main parts. In part I,  you are required to diagram a ne
 - <b>Visio</b>
 - <b>DHCP</b>
 - <b>ADDS</b>
-- <b>DHCP</b>
+- <b>DNS</b>
 - <b>FRM</b>
 
 <h2>Environments Used </h2>
