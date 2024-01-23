@@ -3,32 +3,37 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of two main parts. In part I,  you are required to diagram a network based on the organizational chart provided. The network diagram should include Servers for ADDS, DNS, DHCP , File and Print, and a Web Server. Additionally you also need to create an Active Directory Diagram Showing OU's, Users, and groups. In part II, You will build servers based on the diagrams created in part I.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Visio</b>
+- <b>DHCP</b>
+- <b>ADDS</b>
+- <b>DHCP</b>
+- <b>FRM</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
+- <b>Windows Server 2019</b>
+- <b>Visio</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Organizational Chart Provided: <br/>
+<img src="https://i.imgur.com/H4O7dEH.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a Network Diagram using Visio:  <br/>
+<img src="https://i.imgur.com/ZVi9Bo8.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an Active Directory Diagram: <br/>
+<img src="https://i.imgur.com/WjRXwnE.png"/>
 <br />
 <br />
 Confirm your selection:  <br/>
