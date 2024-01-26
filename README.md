@@ -18,7 +18,6 @@ Project consists of two main parts. In part I,  you are required to diagram a ne
 
 - <b>Windows 10</b> 
 - <b>Windows Server 2019</b>
-- <b>Visio</b>
 
 <h2>Program walk-through:</h2>
 
